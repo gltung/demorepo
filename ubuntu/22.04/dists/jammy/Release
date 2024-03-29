@@ -1,0 +1,20 @@
+Origin: AutoCount Sdn Bhd
+Label: AutoCount Server
+Codename: jammy
+Version: 2.1
+Date: Fri, 29 Mar 2024 08:34:33 UTC
+Architectures: amd64
+Components: main
+Description: AutoCount Server Apt repository for Ubuntu 22.04
+MD5Sum:
+ a6c62715e12843ecdf3e9a296386420e 637 main/binary-amd64/Packages
+ bd19b6cb9795d393be4d1f28069375ab 427 main/binary-amd64/Packages.gz
+ 51066dfa7c5180ca8a79c50287dea13c 161 main/binary-amd64/Release
+SHA1:
+ a30e9d6dcde439c553345418ef4c9c09034a7a34 637 main/binary-amd64/Packages
+ d8f428f324cc978d99f02deac584a59b4a4b0efa 427 main/binary-amd64/Packages.gz
+ 88591b9b6b42b70808fa08596ed3afa25ee87042 161 main/binary-amd64/Release
+SHA256:
+ 7d92b90ecd4cfafe270f6998f9ff64fe281edd04e6fbb31ba1bb793b36b513af 637 main/binary-amd64/Packages
+ 5618a48e659e91439c33734a40a498398cca0b6375af38895d6c9adf01e9bfe0 427 main/binary-amd64/Packages.gz
+ 5161659392464533fbd08e27e2fb45080e0e01b93335a00f37ace4488a8ae303 161 main/binary-amd64/Release

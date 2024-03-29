@@ -1,0 +1,1 @@
+deb [arch=amd64 signed-by=/usr/share/keyrings/acserver.gpg] https://raw.githubusercontent.com/gltung/autocountserver/main/ubuntu/20.04 focal main

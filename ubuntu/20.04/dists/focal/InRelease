@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: AutoCount Sdn Bhd
+Label: AutoCount Server
+Codename: focal
+Version: 2.1
+Date: Fri, 29 Mar 2024 08:34:08 UTC
+Architectures: amd64
+Components: main
+Description: AutoCount Server Apt repository for Ubuntu 20.04
+MD5Sum:
+ a6c62715e12843ecdf3e9a296386420e 637 main/binary-amd64/Packages
+ bd19b6cb9795d393be4d1f28069375ab 427 main/binary-amd64/Packages.gz
+ 043690b7302ad366bb7e326d6f3a4542 161 main/binary-amd64/Release
+SHA1:
+ a30e9d6dcde439c553345418ef4c9c09034a7a34 637 main/binary-amd64/Packages
+ d8f428f324cc978d99f02deac584a59b4a4b0efa 427 main/binary-amd64/Packages.gz
+ 65964e499951a3de9652cafb4c17e5845a5b3d5b 161 main/binary-amd64/Release
+SHA256:
+ 7d92b90ecd4cfafe270f6998f9ff64fe281edd04e6fbb31ba1bb793b36b513af 637 main/binary-amd64/Packages
+ 5618a48e659e91439c33734a40a498398cca0b6375af38895d6c9adf01e9bfe0 427 main/binary-amd64/Packages.gz
+ 6473becf027319e02d91306f449062a31e24bf8a54ac0e6fc9dc80f63ad649d5 161 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEZg+Idut8owHiHC+giNMqnoZI3/oFAmYGfQkACgkQiNMqnoZI
+3/qHYAv9FxMnXzMzvouCT6PhRPKjEsDpie5MbS3hEZ9oLS28i796Ur9R5RptMCA6
+gwU0S2/dcDtBRsQCaSsRnEmtVUFzc7NukPYGjaHdgRLdO6qwCHYnB2kNkrstTzFj
+Wz0Mx+X8AHDYRjZQX5T9F7QIaQDHBuJuS7tWcpZsusHQcFe5PfSXbGOyvM9AuUfb
+p+BHMJ3rKIfW28n+4McfySCahvyi+tpR2eljFVv0bwf15kt+Z2CfK0RsHeL6Qai/
+CV1oh1VOIkjQsWSWeO0xQuuxqaqaY+LytrWNnLEKTe28IQYeoeSnoSCHoG+w6jOv
+6OcUNySe3koL+4P4xCV3StthmxrmrB81wtWVeRx0OTBy91gI6yD2ZZOcQ3O+TFxo
+WkHvlicTTtD4B2Q1RBloOs+lIxiIZFOhJNiGDdqrdFgJYOnMgsQZt272qYyWpQJN
+fNWOvCHl1j+eAdP70ZX34I/tJ0NhyBnYsSgN1n5Yyz5PvVjWRhcobZGEQ5oFCiPK
+NxTonupB
+=2NlX
+-----END PGP SIGNATURE-----

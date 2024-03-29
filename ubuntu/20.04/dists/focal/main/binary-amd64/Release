@@ -1,0 +1,6 @@
+Version: 2.1
+Component: main
+Origin: AutoCount Sdn Bhd
+Label: AutoCount Server
+Architecture: amd64
+Description: AutoCount Server Apt repository for Ubuntu 20.04

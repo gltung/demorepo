@@ -1,0 +1,8 @@
+Origin: AutoCount Sdn Bhd
+label: AutoCount Server
+Version: 2.1
+Codename: focal
+Architectures: amd64
+Components: main
+Description: AutoCount Server Apt repository for Ubuntu 20.04
+SignWith: 1685B1A18EB05C00812013A1386EF9AFBA5AE6AD
