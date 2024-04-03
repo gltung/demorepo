@@ -2,19 +2,19 @@ Origin: AutoCount Sdn Bhd
 Label: AutoCount Server
 Codename: jammy
 Version: 2.1
-Date: Mon, 01 Apr 2024 03:22:03 UTC
+Date: Wed, 03 Apr 2024 10:31:04 UTC
 Architectures: amd64
 Components: main
 Description: AutoCount Server Apt repository for Ubuntu 22.04
 MD5Sum:
- bd31b2509e8ad43a5011d254b2df1224 637 main/binary-amd64/Packages
- f6be9b8e9bb351f67de0d928fba75a0e 426 main/binary-amd64/Packages.gz
+ fa7a0d89c6dcce66c5b567cae519e3a6 637 main/binary-amd64/Packages
+ eb383a79b2bca5e84ace55ff0f99cb0b 426 main/binary-amd64/Packages.gz
  51066dfa7c5180ca8a79c50287dea13c 161 main/binary-amd64/Release
 SHA1:
- fd8beb47d6cd41dd78cfe5b71fca2808f9513a85 637 main/binary-amd64/Packages
- 4a1316a1d6e95b0728d78af050c638451b257a73 426 main/binary-amd64/Packages.gz
+ 502d35ec6be1baf7ad71f23db8969a1eb3d91ada 637 main/binary-amd64/Packages
+ b3ec6968666870b7f82b0a7d51bac5b8270507f7 426 main/binary-amd64/Packages.gz
  88591b9b6b42b70808fa08596ed3afa25ee87042 161 main/binary-amd64/Release
 SHA256:
- 8902c7c90d80b1dc53ae297eee93529ab6414cc1a87aeddcfc9bab1c30090fcb 637 main/binary-amd64/Packages
- 96256d22b550fad6c2c6ab45a766b2bb5ca13ad608a0642bb043f59c02473d02 426 main/binary-amd64/Packages.gz
+ 457699953b332a193a5d12fd59e5f8705a3f64f5df0d91fa170da8b33fb96663 637 main/binary-amd64/Packages
+ f7ddba00bb18323cf51ae7363364de470cd27af52edb74082ab0d975c7f1a6b3 426 main/binary-amd64/Packages.gz
  5161659392464533fbd08e27e2fb45080e0e01b93335a00f37ace4488a8ae303 161 main/binary-amd64/Release
