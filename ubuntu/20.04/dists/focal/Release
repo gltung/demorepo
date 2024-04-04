@@ -2,19 +2,19 @@ Origin: AutoCount Sdn Bhd
 Label: AutoCount Server
 Codename: focal
 Version: 2.1
-Date: Thu, 04 Apr 2024 03:21:25 UTC
+Date: Thu, 04 Apr 2024 06:17:36 UTC
 Architectures: amd64
 Components: main
 Description: AutoCount Server Apt repository for Ubuntu 20.04
 MD5Sum:
- ad5661c57a95636d02b7b81a83a11705 637 main/binary-amd64/Packages
- 76258ff7849f82e0ddf53be0ac857eb7 426 main/binary-amd64/Packages.gz
+ 44eb9c8fa7fd86293156d24058cfb9fc 637 main/binary-amd64/Packages
+ 401f01c461fe7d7852fe3f14c5425b34 428 main/binary-amd64/Packages.gz
  043690b7302ad366bb7e326d6f3a4542 161 main/binary-amd64/Release
 SHA1:
- 79607ddc5e07b7b5f0a21935cbfc3c8d69c2e7f6 637 main/binary-amd64/Packages
- 08f24b8b43c48b75ebd0d2f42117e14d94c467ee 426 main/binary-amd64/Packages.gz
+ 49f935906cb3229716f6ed03ad40be0c69fbc0b3 637 main/binary-amd64/Packages
+ 833c4f228d7dd832e8390f9675b8b6e073a37928 428 main/binary-amd64/Packages.gz
  65964e499951a3de9652cafb4c17e5845a5b3d5b 161 main/binary-amd64/Release
 SHA256:
- fcc180f68fe974d54c73cfb90a36d95c98c4b42f96198e075c55f2fe1c8a72f6 637 main/binary-amd64/Packages
- a2c8947bc598137690e84dece80df9217972c2c6c66048ed89faf571a4523c2f 426 main/binary-amd64/Packages.gz
+ 43e6f0fd24b3b97315d6d65c164d7b7a65d004a2e604273bc6603fed204d99ee 637 main/binary-amd64/Packages
+ d3ba41e43d023d5fc5780c83769370c1843006abdded2e079e2edf7c9f624aa3 428 main/binary-amd64/Packages.gz
  6473becf027319e02d91306f449062a31e24bf8a54ac0e6fc9dc80f63ad649d5 161 main/binary-amd64/Release
