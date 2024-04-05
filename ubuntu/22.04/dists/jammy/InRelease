@@ -5,33 +5,33 @@ Origin: AutoCount Sdn Bhd
 Label: AutoCount Server
 Codename: jammy
 Version: 2.1
-Date: Thu, 04 Apr 2024 06:18:28 UTC
+Date: Fri, 05 Apr 2024 08:13:08 UTC
 Architectures: amd64
 Components: main
 Description: AutoCount Server Apt repository for Ubuntu 22.04
 MD5Sum:
- 44eb9c8fa7fd86293156d24058cfb9fc 637 main/binary-amd64/Packages
- 401f01c461fe7d7852fe3f14c5425b34 428 main/binary-amd64/Packages.gz
+ 8479dfbd3fb1a0756617b027962ba393 637 main/binary-amd64/Packages
+ 13c6d5328849ca798cee2bac79611623 427 main/binary-amd64/Packages.gz
  51066dfa7c5180ca8a79c50287dea13c 161 main/binary-amd64/Release
 SHA1:
- 49f935906cb3229716f6ed03ad40be0c69fbc0b3 637 main/binary-amd64/Packages
- 833c4f228d7dd832e8390f9675b8b6e073a37928 428 main/binary-amd64/Packages.gz
+ adb5bf1f1b6e5739d89764eca4f0e63cf0a269a8 637 main/binary-amd64/Packages
+ 3277805e024b1004cd39c118f1f9e9bf519b3f2f 427 main/binary-amd64/Packages.gz
  88591b9b6b42b70808fa08596ed3afa25ee87042 161 main/binary-amd64/Release
 SHA256:
- 43e6f0fd24b3b97315d6d65c164d7b7a65d004a2e604273bc6603fed204d99ee 637 main/binary-amd64/Packages
- d3ba41e43d023d5fc5780c83769370c1843006abdded2e079e2edf7c9f624aa3 428 main/binary-amd64/Packages.gz
+ e8d90d98d883b3ba345546d4ed3d032de201117bf855c8187b839157410ab91c 637 main/binary-amd64/Packages
+ cd16d91ed713c06153d8cc9d11d655aa5cf694f8a907eaf5c640c780ccf86fa4 427 main/binary-amd64/Packages.gz
  5161659392464533fbd08e27e2fb45080e0e01b93335a00f37ace4488a8ae303 161 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEYiGdsJdtuEWYHcJHrrAqU1mNecIFAmYORjQACgkQrrAqU1mN
-ecL/Dgv/dbmERxyJV8Pt2LzzSNxNpALwLB0IFwG5jZfBHjovSTsnTQq0RhzvO66P
-9YVwYDwriHELj8XiKIc5f9BL/06Zyk6Lr1O1/q2MFDBZb8VL6Cm0p7NqWtAC6ny9
-30rzOVkzZhQ/1eswGjx6FlMTYw34JTgpr5V6Ln4G/LfBaHxjxMhh7W1TCI9MEi+s
-+yp6Qlty2R/K/y2m8Gt5eD4u2dNyQLtRJTQAGMyavHPHs6Q6WYvl/c2keJYh8DGD
-ZoqJ8BvIIWQzPtNZqyysb3uug45hdLIfLMhpgI9CraCn/w1FoS4dN4aJfHKbAgET
-bIc5zE0Zj+OCpEmKOMNYdPjTblHKHYmFRkOuHN1R/naBtU+ysmXSV7jESiPaqYVo
-+kQcI4GOzFi73++KAcm/B2/eZXqRiY+0esCz5z+Il3QdIr+xm+cJ9l2mq3Cg7wOu
-YFJWKzDF5OV4+xXDknhbJdXzpvujLtX8887AQ7WrFU3BorMIxaR0sqDbp4XxU6K7
-rNmduD1k
-=AG+q
+iQGzBAEBCgAdFiEEYiGdsJdtuEWYHcJHrrAqU1mNecIFAmYPspQACgkQrrAqU1mN
+ecKXkwv/RWeeF+NSgoUw6apO4WbaKRt10z06idVDF9+4Op2jwUs+O9Phc90iMZZH
+Y1sNRyeCeZW4oOuKsWyHFHHHOkn/ZsgIajSkLKOzppA7/HZ+gZZgKph4kAA3XcRG
+0fcG+lSFw3k81woBKyRIHzsaqjO2lqxCbuRg1Orfi7bWQK6Rp56HM+S75m1CDctX
+tGjUDYxWXrti8yGzfv9gWopY5x+NJrRiUcRzogyaKX/386zMEYAD/Pdj3xgcNQdi
+sg3d0Xi+TCHVUtHr8uSXAFqsZhUpJrzMcyCmcXOiDXG+yIlYiSCB2Nv+2gWGseix
+0YAPjPQre+Daacjgn2GDmNkzCAaB2WERZGoGLjiOhsK5cJO/Nn4pv8PQP0/qHT8S
+lUrUsPNQBoExZ73E3AuN8APgNCJaqXJ5IX+Uu6bYHXgw8AbP2ZQLmxQMEASXyw0e
+zPBF3ojQqBpCbJ98pGBOyQTIiuBbNCdPoQqcG9JwckJA31dt5Z+55CB7UHvRUaDR
+CerH8eDq
+=haSp
 -----END PGP SIGNATURE-----
