@@ -5,33 +5,33 @@ Origin: AutoCount Sdn Bhd
 Label: AutoCount Server
 Codename: focal
 Version: 2.1
-Date: Fri, 05 Apr 2024 08:12:40 UTC
+Date: Sun, 07 Apr 2024 09:38:56 UTC
 Architectures: amd64
 Components: main
 Description: AutoCount Server Apt repository for Ubuntu 20.04
 MD5Sum:
- 8479dfbd3fb1a0756617b027962ba393 637 main/binary-amd64/Packages
- 13c6d5328849ca798cee2bac79611623 427 main/binary-amd64/Packages.gz
+ 6a6c44104754015aa547934601664b99 644 main/binary-amd64/Packages
+ cd3f9f91a2bebe9c20f9485d35172b05 434 main/binary-amd64/Packages.gz
  043690b7302ad366bb7e326d6f3a4542 161 main/binary-amd64/Release
 SHA1:
- adb5bf1f1b6e5739d89764eca4f0e63cf0a269a8 637 main/binary-amd64/Packages
- 3277805e024b1004cd39c118f1f9e9bf519b3f2f 427 main/binary-amd64/Packages.gz
+ 3b96924e8bcd926e2bdc445ea6070eda520ebda2 644 main/binary-amd64/Packages
+ 2ce1cc7c88238d437fc6c6f06453046941b7a06d 434 main/binary-amd64/Packages.gz
  65964e499951a3de9652cafb4c17e5845a5b3d5b 161 main/binary-amd64/Release
 SHA256:
- e8d90d98d883b3ba345546d4ed3d032de201117bf855c8187b839157410ab91c 637 main/binary-amd64/Packages
- cd16d91ed713c06153d8cc9d11d655aa5cf694f8a907eaf5c640c780ccf86fa4 427 main/binary-amd64/Packages.gz
+ c8ae77bdaf1a2c661a94590d2ce1b8224f323eb7cef9ef52ceff26c90ececc8d 644 main/binary-amd64/Packages
+ e3d042d80e5480b1a2ab8d8be2e5a2967ec2e9e32d5b5c8bbadda63c7a604e0b 434 main/binary-amd64/Packages.gz
  6473becf027319e02d91306f449062a31e24bf8a54ac0e6fc9dc80f63ad649d5 161 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEYiGdsJdtuEWYHcJHrrAqU1mNecIFAmYPsn8ACgkQrrAqU1mN
-ecJsGgv/SDCod7E6IviUCRRBjMunsYLJ9lE849eYIJdC0/tB//qwAo2WeD6ZnuWd
-rwaNHzAALzpisb4aRWivDs7H1e//39Sn8yK2/UHm4Jo/2QmdzgZXoxPbyLRUmwWB
-qJ/W0v0WVpod7/LaXJGmaDqEbZX1VV11aLbGxF+AV9LF9/Yk8eYlCq8/RO1tUiNv
-LntIKny0TGiIrHNq9GL0l6ugEoPZ1iAqbGhHDxQ2vkLiz75NtnjTSAoTgraRRWlv
-6sgWudZzWn4FLRCrG5/tvl44ywpTDTPk+gn4GIVPOTHZTaBmcL/cAlsfyXGDvZJ/
-usQwQWbIt6D6UMz6FKq6j1QAViuTiu4IcIJSAW4I+S4+AStAeXAPY4Lfyo3nlJjG
-i3lqwmCOzgBAaBXaYSQsapgLHApeLyGSYt3T5LL+K0wjjtv4UaG7WCyW6FD46HNO
-IKAUWFisV9A+OUih5oI7LcJgy2eZoulREyG/+eHIDf4BXiShm40Fp2YXLwbi/v6K
-jZRJucrK
-=IKwU
+iQGzBAEBCgAdFiEEYiGdsJdtuEWYHcJHrrAqU1mNecIFAmYSaboACgkQrrAqU1mN
+ecLUMwwAkFHIl/mnxh624eARg8T/zSJZ44BtZyrYhDs5+ITM29jZsd4rfnq+yn6k
+rHT5T3A6+7MOYAOMeABpuOnQL8cKW4vKlKqt/subPDhAvKKvAIvRXUH3lQZAoZWJ
+2tn3rwcAFcCBFVvd/km0S09mxBj0BiaV+Cp8j0o4IWcrzPWTpARuXE5OmsHEVmqZ
+2o+BEhvBm7tZqb8AVEPrTVz13/TU78SXZ3Xu3BQ2f7+kQsXfLQLVN+rWn5bWr73h
+yZFlx6DaUU3C6CRzEt/S8CMnlLOFma3zEiq9DMv/aRVLQMehZgZEDqDpQ0C37Qm/
+XXOwWI/tyk2/PjTSE8t+ZyiB85UVJP3UiasiMVB/wiz5ADhCVjNbRMrrPDI+R0tu
+POMy/evCQ6N+Mp2ZIFZS8NLm9xBSRGQuba41AMz3k0DYRatHxj93WzvtidnsmkA3
+taflBNcUJrd/7jYU1xzknJjHXCEQcW069lcFvz0lppIvvap9y1mTUCyMUsuSX4zi
+PRuX110D
+=n+14
 -----END PGP SIGNATURE-----
