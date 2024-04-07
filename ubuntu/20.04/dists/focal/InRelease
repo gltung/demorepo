@@ -5,33 +5,33 @@ Origin: AutoCount Sdn Bhd
 Label: AutoCount Server
 Codename: focal
 Version: 2.1
-Date: Sun, 07 Apr 2024 10:02:48 UTC
+Date: Sun, 07 Apr 2024 11:01:12 UTC
 Architectures: amd64
 Components: main
 Description: AutoCount Server Apt repository for Ubuntu 20.04
 MD5Sum:
- 961fb3189b7e5a3729f7577e2c034189 644 main/binary-amd64/Packages
- f90f963e879b2f4a9270c3b1c5423861 430 main/binary-amd64/Packages.gz
+ a1dc53d1f4f90c5eed37e01f85e5c462 644 main/binary-amd64/Packages
+ 4bd56ae25f483acb5d12021d96e90e1e 431 main/binary-amd64/Packages.gz
  043690b7302ad366bb7e326d6f3a4542 161 main/binary-amd64/Release
 SHA1:
- b8faf00919cde8ceb950057f4b33cdb21af6e3dd 644 main/binary-amd64/Packages
- 7ee4302932debd7f61e7d88582f58dc38b32b665 430 main/binary-amd64/Packages.gz
+ c55254295d44a06ebab463908d58def4139ad554 644 main/binary-amd64/Packages
+ 81a6f48deb5161cd1830a40429724643f32484ce 431 main/binary-amd64/Packages.gz
  65964e499951a3de9652cafb4c17e5845a5b3d5b 161 main/binary-amd64/Release
 SHA256:
- 88c32619d9bbccbb319bfb513cb5ef2a65a10a2c74de672b0fc6dd9b37c20780 644 main/binary-amd64/Packages
- d9ed5ff90f8e76783b620c9dd59e662921eecfb793b269d7aa767d3fa933050c 430 main/binary-amd64/Packages.gz
+ f88a4609586f3737c39cf71a02a44c59a4bcbf4a91bf0506f69319fd0824ac58 644 main/binary-amd64/Packages
+ 9fcd5d1df0adde560f0581653995043815a78087f87f0c549b8d3dd3d3a23892 431 main/binary-amd64/Packages.gz
  6473becf027319e02d91306f449062a31e24bf8a54ac0e6fc9dc80f63ad649d5 161 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEYiGdsJdtuEWYHcJHrrAqU1mNecIFAmYSb1EACgkQrrAqU1mN
-ecKgPQv/R+CYEwemM2UUnxp/u6fg+KYMuI9STNHnn+ZezUfFOqrUvdsPWZ37JC5M
-v49eJ3VqIICYO+3Ca6SOQxk35P3o1R3McharEqIWquB9X+JeJg2nGKuzpaLb9c4t
-74pxIExdAR3m6NJmnxeluSqSksN1edwv+qivdQf8r6lWcUD/gcCIM4lf5OVZKpeD
-LLZykVwR0ROazlSiCBkv3igv/MWa4ZN6p6gdXlRA2CwXy4m2khA8qiYjDi/HEP0w
-ANJsPjdz2M4EiA7/IuxwqEdwGihHv5s/FY+IeNgwpw1PqzycyYeDBTUKfbSoFbQ+
-jjmdmbewM6L8smcHr19kHDnFwowm5VP3I5bYvvzrTelT4x9xMJUmnBX2u+ZWxFbg
-zUSkWjqtFswnMSigMvRzlumYvOro/1+J3MN7VyIfueZBFyR/d/t6h610kpyPkbnA
-+S+HdU94JnRqugSuAHAkeCvq7CtL4pbkOuOVKTkvedoZuGxh7TMBPP2/9UFnwNWv
-mMe7+l50
-=wWbS
+iQGzBAEBCgAdFiEEYiGdsJdtuEWYHcJHrrAqU1mNecIFAmYSfQkACgkQrrAqU1mN
+ecLTUgwAsKzDr6mwwXQ3WAoNkUWkDj3C/glGsTr5HP3b90DiPo9tftLJNdARbYiT
+30yaV6coh749F16Fm9iZ+NeyfYY0Yn6XMMeC4eF6idwNNX7YELlHfEDLfKuK41FZ
+g3QPhe4up/jOHT0Fu8iF0W1g+5rDChqJEs/5xl5CrbfSrESyRfjHd2M5dpMssrMn
+YqdT3wE7FO0YJg2PqrakZjg0upXG2B6Fif4PAgIf1Vyi1aoBEywiPXPD8IrxGgNr
+R7+t7t1+bygh16yGb/DfTCsL8gE8Xy2hqdvnL3EJ052JekC5MoRf1/DgZQAnFAp/
+QdQCo6+lXmzpGzX2ayCO9rguGrg///Ljg4y5Ldvkdqrq7/Ghp4P4dMTC4KvWU/HA
+Id1dxq83wyvJWVlKyU+sYASnjk4rl825gNGomk4v7HCQF4mK9OJ1tpTMlO6HWs5R
+f3HpjTVbAMlzVSBVy9fnyH+pyIg7Bgjs0cT9ZFC4zXMvx+DuR0mKsqx6l2/bbikr
+Z4bZOvp1
+=2X4e
 -----END PGP SIGNATURE-----
