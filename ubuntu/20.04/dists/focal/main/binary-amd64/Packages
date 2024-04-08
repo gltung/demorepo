@@ -7,10 +7,10 @@ Depends: unrar
 Priority: optional
 Section: net
 Filename: pool/main/a/acserver/acserver_2.1.0.11_amd64.deb
-Size: 33412594
-SHA256: 494b5fdd907147d094e89e01a4f909851b7b14bd8ed1b63cb78b04e7f0bbe084
-SHA1: 82d233c2a79ba349d6ab36047a2f320cd2109ee9
-MD5sum: 7431c514cede0b2f4ff67cfc9f2359ed
+Size: 33412574
+SHA256: e2d4183ce35c5485024fdbf949647cdf1cfe934f0008fb52b778989a7f5930e7
+SHA1: 24942b43c6ecba53ef89d00870d9071640e984fc
+MD5sum: cddb348f0af97e800e32eecc9e0e5695
 Description: AutoCount Server 2.1 for AutoCount Accounting 2.1
  This package provides the AutoCount Server 2.1 for use with AutoCount Accounting 2.1.
  .
