@@ -1,0 +1,20 @@
+Origin: AutoCount Sdn Bhd
+Label: AutoCount Server
+Codename: focal
+Version: 2.1
+Date: Fri, 12 Apr 2024 02:29:57 UTC
+Architectures: amd64
+Components: main
+Description: AutoCount Server Apt repository for Ubuntu 20.04
+MD5Sum:
+ 7b495a9362da9fd907f3b6a24cb981e0 652 main/binary-amd64/Packages
+ b6fa8380476f50774488126df900bf5a 433 main/binary-amd64/Packages.gz
+ 043690b7302ad366bb7e326d6f3a4542 161 main/binary-amd64/Release
+SHA1:
+ e2ce66092e1ba11aae36f7a16b5aeb15e0ef306a 652 main/binary-amd64/Packages
+ bbbc62128ea5c84c62c8d9e0f3cad49fcb0c8194 433 main/binary-amd64/Packages.gz
+ 65964e499951a3de9652cafb4c17e5845a5b3d5b 161 main/binary-amd64/Release
+SHA256:
+ 550d88696be24ad19ac8963577fa92ba553139a86c22b2ec0604ba1ece1d3a53 652 main/binary-amd64/Packages
+ df1ddb3ec40a7c74e86d1cb2104c1a0a59616a7b17396ad117d0744906be6e09 433 main/binary-amd64/Packages.gz
+ 6473becf027319e02d91306f449062a31e24bf8a54ac0e6fc9dc80f63ad649d5 161 main/binary-amd64/Release

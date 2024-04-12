@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: AutoCount Sdn Bhd
+Label: AutoCount Server
+Codename: jammy
+Version: 2.1
+Date: Tue, 09 Apr 2024 02:39:08 UTC
+Architectures: amd64
+Components: main
+Description: AutoCount Server Apt repository for Ubuntu 22.04
+MD5Sum:
+ 2a8e95b8acf8afb90ec71b60fcd46814 652 main/binary-amd64/Packages
+ 5508de493a90f593f46ad37836bd3936 433 main/binary-amd64/Packages.gz
+ 51066dfa7c5180ca8a79c50287dea13c 161 main/binary-amd64/Release
+SHA1:
+ 2d4635a53649d450237fbb75e757085d1e266539 652 main/binary-amd64/Packages
+ dfc26744d360ece0b7db208a2cc4d2b2fa17c7b9 433 main/binary-amd64/Packages.gz
+ 88591b9b6b42b70808fa08596ed3afa25ee87042 161 main/binary-amd64/Release
+SHA256:
+ d87818025df5727560369d1427211abaa5faf6f9e82248d0f3708dc14d6c1d30 652 main/binary-amd64/Packages
+ dfd3866e82936f2b505fb5b7508e331683912bc03af843ec92691ad3b4ec4a29 433 main/binary-amd64/Packages.gz
+ 5161659392464533fbd08e27e2fb45080e0e01b93335a00f37ace4488a8ae303 161 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEYiGdsJdtuEWYHcJHrrAqU1mNecIFAmYUqkwACgkQrrAqU1mN
+ecJ+JQv/UsDzQA0IvEAGIwwpINX5ft12VQ9x7NIQk0IXuMG5ZLXJStU3LUMWR8+i
+Gle3Gs9GrBwRXG7wzSkBwrBC0BgMyDz8tYkLGWEZG3a8hrufwlQwK9dQ3e/7e5fn
+LH/nFjcvsXqqVYJ/WFJqmzm/VoXTMW3ryu8kf8QWaPWhUGv8f9qbvd27WXILtsR/
+b3eN4fuIQaTGzGr4cjfCnBbwUzMKO78mmViPVWN3kc0eS762tMn9K/Ceii8ESxYn
+udM+VfCfAlkxkEDOOcWi5y1Au9/i/W2JlXtVce44hjtgh+DaXDx1YzYgXnzlShy/
+ochN0O6orWIN0eOt3PeIh77U6tFqDw5nUmVOzr9etQGU5vtlrtyg1RfNRUT7rdvE
+2svKxnU8ZwNQcf9PZgzWQ+1/cUx7k0m3ZRgWIx42AvHGnmegJ4aPFDP+IRkQqP2C
+l1MtYc1Qq+fsRRw6cYvp/DhS4/f/+bSVAoRntQtE3lvcHl2M5JjNX2a84Noq9P33
+ZLZY7npV
+=z64U
+-----END PGP SIGNATURE-----

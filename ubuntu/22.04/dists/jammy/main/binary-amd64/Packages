@@ -1,0 +1,21 @@
+Package: acserver
+Version: 2.1.0.11
+Architecture: amd64
+Maintainer: Auto Count Sdn. Bhd. <support@autocountsoft.com>
+Build-Depends: debhelper (>= 10), dh-systemd
+Depends: unrar
+Priority: optional
+Section: net
+Filename: pool/main/a/acserver/acserver_2.1.0.11_amd64.deb
+Size: 33412580
+SHA256: 7193c82aea8e0cefd4e771815ff995af799cbe9b6b18296e4ec1756a9d2cf3ee
+SHA1: 55470f9fd7f5b93fd6cc2996e9b53dab38812c91
+MD5sum: 0f1e426e1c7474f6ffe0ba368d298c16
+Description: AutoCount Server 2.1 for AutoCount Accounting 2.1
+ This package provides the AutoCount Server 2.1 for use with AutoCount Accounting 2.1.
+ .
+ .
+Postinst: DEBIAN/postinst
+ .
+Postrm: DEBIAN/postrm
+

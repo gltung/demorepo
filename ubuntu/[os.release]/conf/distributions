@@ -1,0 +1,8 @@
+Origin: AutoCount Sdn Bhd
+label: AutoCount Server
+Version: 2.1
+Codename: 
+Architectures: amd64
+Components: main
+Description: AutoCount Server Apt repository for Ubuntu <>
+SignWith: 791D646F63003A5FBC1AB449A65BD830C06E69D8
