@@ -1,0 +1,20 @@
+Codename: my-archive
+Date: Fri, 12 Apr 2024 06:31:55 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ b00fa9d4fb67087c1a659538e07f7eaf 789 main/binary-amd64/Packages
+ 462483020536abb23f4d0cfb3d864148 518 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ 20d1bd5026b0bd51e767907fceba2159ac8dc48e 789 main/binary-amd64/Packages
+ 20fcc892461aee9025e76370d6ebede5e8984dc6 518 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ fa1ae32ffb3e7105dd23bd1cfdf6ff5e25041f4cae5b86e7697b9f92e3f9ca52 789 main/binary-amd64/Packages
+ 803549f197a218489d3c22fbef1f2fd8b93a2f008a2c2c3809f103ab36d8f773 518 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
+SHA512:
+ 7f8f81f2407c240ba332b916cb2ccaa60d5c795afe8f04718262980e21abce78e52b5a788f99d36def7fa5ac11a5b5d9dee428a9922658b4539571fbbaa705be 789 main/binary-amd64/Packages
+ 0cd5c9dd08da5437c47fa10a797f1b93a0a95f59040ee6f66762d02804781d84e83d4f0067fadebcbeb9d6ead35deebc0a47f22c7c703f67fdc0eee1899ceba1 518 main/binary-amd64/Packages.gz
+ f235d764ba8696169ac68fa07ffed59fea66ee4d0243151765cd2d6a07c8a63c9dabd537a377a4b281fecd6fc5dd9d7334607f215f0716b9ae15610ae3a54bcf 36 main/binary-amd64/Release

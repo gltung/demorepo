@@ -1,16 +1,61 @@
 Package: acserver
-Version: 2.1.0.13
+Version: 2.1.0.16
 Architecture: amd64
 Maintainer: Auto Count Sdn. Bhd. <support@autocountsoft.com>
 Build-Depends: debhelper (>= 10), dh-systemd
 Depends: unrar
 Priority: optional
 Section: net
-Filename: pool/main/a/acserver/acserver_2.1.0.13_amd64.deb
-Size: 33412574
-SHA256: eee076eeb6652c8ce08c77faba4ffcde1881e3a1216daa802c3a34787c1b8d02
-SHA1: bf23493fa6feb504a1be02901767881e26ecef5c
-MD5sum: db337782704957f9ea3d8abaf096a91e
+Filename: pool/main/a/acserver/acserver_2.1.0.16_amd64.deb
+Size: 33412572
+SHA512: 844282320ed3daf28aa7fb9fab31653a4273f98ad33f6a2d2021b9e70e26258ecca497798c12648a808d84f050f9b37850bb318689ab507d7a1af1383ce4b416
+SHA256: d267b1c2059d70be3efd72d93ea2f7f4636ebdabf09f2191f365eb0e9daccc12
+SHA1: aec1067c51b1bfca9e426c4e6aac2f3f8b3a877b
+MD5sum: b9ee607f62690d3b50324762da82df0a
+Description: AutoCount Server 2.1 for AutoCount Accounting 2.1
+ This package provides the AutoCount Server 2.1 for use with AutoCount Accounting 2.1.
+ .
+ .
+Postinst: DEBIAN/postinst
+ .
+Postrm: DEBIAN/postrm
+
+Package: acserver
+Version: 2.1.0.15
+Architecture: amd64
+Maintainer: Auto Count Sdn. Bhd. <support@autocountsoft.com>
+Build-Depends: debhelper (>= 10), dh-systemd
+Depends: unrar
+Priority: optional
+Section: net
+Filename: pool/main/a/acserver/acserver_2.1.0.15_amd64.deb
+Size: 33412572
+SHA512: 13c68a875a856a12571d908a521ecf6c3fe96d42b4402dab8b533a8f85f4f96cd53d1b745112072cd9266bab9cc667743ba8def2fbd2c67bf000d49ab6d05be3
+SHA256: 0c1cf93dbbd151c3f45bc177cad5a7aee883e2bbfb6161f86032ca04a13f3afb
+SHA1: eb38767726fbb30e112ef301d59ca532b934fb1f
+MD5sum: 35a6685ec167da10024a71ddff3aedc8
+Description: AutoCount Server 2.1 for AutoCount Accounting 2.1
+ This package provides the AutoCount Server 2.1 for use with AutoCount Accounting 2.1.
+ .
+ .
+Postinst: DEBIAN/postinst
+ .
+Postrm: DEBIAN/postrm
+
+Package: acserver
+Version: 2.1.0.14
+Architecture: amd64
+Maintainer: Auto Count Sdn. Bhd. <support@autocountsoft.com>
+Build-Depends: debhelper (>= 10), dh-systemd
+Depends: unrar
+Priority: optional
+Section: net
+Filename: pool/main/a/acserver/acserver_2.1.0.14_amd64.deb
+Size: 33412572
+SHA512: fe38bc4be691109ff4ce1b19a3d2cedf6b920aba6c106ca7bb073f2f3b6d3082bd33b7a4ab353cd289cc68100afd899985897c646e24a3355a6340927011df08
+SHA256: 4a9fddaddca7ae059fd5895ce5bf28f816c2717808624299f0692341126fc0be
+SHA1: 7df8c92f378fcd00aec1146515d4baee8168d1b6
+MD5sum: 21b6ec3d53401bcb9786aa39f493dbb4
 Description: AutoCount Server 2.1 for AutoCount Accounting 2.1
  This package provides the AutoCount Server 2.1 for use with AutoCount Accounting 2.1.
  .
